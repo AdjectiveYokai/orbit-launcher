@@ -30,6 +30,8 @@ The official project website is available at [adjectiveyokai.github.io/orbit-lau
 ## Project status
 
 Orbit is being tested through internal development builds. Features and interfaces may change or break before the first public release.
+However, You can check progress at this Trello board https://trello.com/b/lvWim8Hf/orbit-launcher
+If it's private, It is being edited.
 
 ## Disclaimer
 
